@@ -7,16 +7,16 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
-				"tall"		"10"
+				"name"		"Noto Sans"
+				"tall"		"11"
 			}
 		}
 		"ScoreboardSmallest"
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
-				"tall"		"7"
+				"name"		"Noto Sans"
+				"tall"		"9"
 			}
 		}
 	}
