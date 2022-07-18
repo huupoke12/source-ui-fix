@@ -23,7 +23,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans Black"
+				"name"		"Noto Sans Bold"
 				"tall"		"16"
 			}
 		}
@@ -31,7 +31,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans Black"
+				"name"		"Noto Sans Bold"
 				"tall"		"19"
 			}
 		}

@@ -7,7 +7,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans"
+				"name"		"Noto Sans Medium"
 				"tall"		"11"
 			}
 		}
@@ -15,7 +15,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans"
+				"name"		"Noto Sans SemiBold"
 				"tall"		"9"
 			}
 		}
