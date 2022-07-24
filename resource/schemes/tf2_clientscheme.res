@@ -7,8 +7,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans Medium"
-				"tall"		"11"
+				"name"		"Noto Sans"
+				"tall"		"12"
 			}
 		}
 		"ScoreboardSmallest"
@@ -16,7 +16,7 @@ Scheme
 			"1"
 			{
 				"name"		"Noto Sans SemiBold"
-				"tall"		"9"
+				"tall"		"11"
 			}
 		}
 	}
